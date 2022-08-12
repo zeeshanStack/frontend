@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch",
-    "build:prod": "ng build --configuration production --base-href https://github.com/zeeshanStack/frontend/",
+    "build:prod": "ng build --configuration production --base-href https://zeeshanstack.github.io/frontend/",
     "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
   },
   "private": true,
